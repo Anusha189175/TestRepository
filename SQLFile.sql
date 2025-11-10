@@ -1,2 +1,2 @@
 SELECT * FROM Students
-  WHERE StudentID = 1;
+  WHERE StudentID = 18;

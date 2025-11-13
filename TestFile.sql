@@ -1,4 +1,5 @@
-Select FirstName, LastName
+Select *
 FROM Students
-WHERE Id = 3
-AND City = 'Pheonix';
+WHERE Id = 6
+AND City = 'Pheonix' ;
+

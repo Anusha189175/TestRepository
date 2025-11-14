@@ -1,6 +1,7 @@
 Select *
 FROM Students
-WHERE Id = 61
+WHERE Id = 30
 AND City = 'Pheonix' ;
+
 
 

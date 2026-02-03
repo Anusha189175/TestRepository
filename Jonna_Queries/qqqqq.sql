@@ -1,1 +1,1 @@
-select * from anusha;
+select * from anusha_Jonnalagadda;

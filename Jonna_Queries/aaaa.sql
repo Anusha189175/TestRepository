@@ -1,1 +1,1 @@
-select fullname, lastname from Employee;
+select fullname, lastname, email from Employee;

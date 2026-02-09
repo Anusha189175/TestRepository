@@ -1,7 +1,7 @@
 Select *
 FROM Students
 WHERE Id = 30
-AND City = 'Pheonix' ;
+AND City = 'Chandler' ;
 
 
 
